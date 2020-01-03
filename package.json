@@ -1,0 +1,19 @@
+{
+  "name": "csv-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node": "^13.5.0",
+    "pg-promise": "^10.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "justin haddock",
+  "license": "ISC"
+}
